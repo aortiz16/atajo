@@ -1,8 +1,9 @@
 package gps;
 /**
  * Bicicleta class
- * 
+ *  author Tony
  * @Java IES Severo Ochoa
+ * Version 2.1
  * @2.0
  */
 
