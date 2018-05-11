@@ -3,6 +3,9 @@ package gps;
  * Bicicleta class
  * 
  * @Java IES Severo Ochoa
+ * @author TONY
+ * @version 2.1
+ * @code Date 11 / 05 / 18  19:00h
  * @2.0
  */
 
@@ -48,7 +51,7 @@ public class Bicicleta {
                 return "caminos 1 y 2";
             }
         }
-        
+                           
     }
 
     public static void main(String[] args) {
